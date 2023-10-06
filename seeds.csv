@@ -1,0 +1,104 @@
+Title,Venue,Year
+Coupling Large Language Models with Logic Programming for Robust and General Reasoning from Text,ACL,2023
+PaLM-E: An Embodied Multimodal Language Model,ICML,2023
+ProgPrompt: Generating Situated Robot Task Plans using Large Language Models,ICRA,2022
+Open-vocabulary Queryable Scene Representations for Real World Planning,ICRA,2022
+Visual Language Maps for Robot Navigation,ICRA,2022
+Data-Efficient Learning of Natural Language to Linear Temporal Logic Translators for Robot Task Specification,ICRA,2023
+Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents,ICRA,2022
+Code as Policies: Language Model Programs for Embodied Control,ICRA,2022
+Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning,ICML,2023
+Do Embodied Agents Dream of Pixelated Sheep?: Embodied Decision Making using Language Guided World Modelling,ICML,2023
+Grounding Language with Visual Affordances over Unstructured Data,ICRA,2022
+Robotic Skill Acquisition via Instruction Augmentation with Vision-Language Models,RSS,2022
+Energy-based Models are Zero-Shot Planners for Compositional Scene Rearrangement,RSS,2023
+Semantically Grounded Object Matching for Robust Robotic Scene Rearrangement,ICRA,2021
+Towards Open-World Interactive Disambiguation for Robotic Grasping,ICRA,2023
+Guiding Pretraining in Reinforcement Learning with Large Language Models,ICML,2023
+VQA-based Robotic State Recognition Optimized with Genetic Algorithm,ICRA,2023
+"Programmatically Grounded, Compositionally Generalizable Robotic Manipulation",ICLR,2023
+Neuro-Symbolic Procedural Planning with Commonsense Prompting,ICLR,2022
+Demonstrating Large Language Models on Robots,RSS,2023
+Abstract-to-Executable Trajectory Translation for One-Shot Task Generalization,ICML,2022
+RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control,arXiv,2023
+Mapping Multi-modality Instructions to Robotic Actions with Large Language Model,arXiv,2023
+Personalized Robot Assistance with Large Language Models,arXiv,2023
+RT-1: Robotics Transformer for Real-World Control at Scale,arXiv,2022
+Generating Situated Robot Task Plans using Large Language Models,arXiv,2022
+"Do As I Can, Not As I Say: Grounding Language in Robotic Affordances",arXiv,2021
+Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language,arXiv,2021
+PIGLeT: Language Grounding Through Neuro-Symbolic Interaction in a 3D World,ACL,2021
+Chat with the Environment: Interactive Multimodal Perception using Large Language Models,IROS,2023
+Generative Agents: Interactive Simulacra of Human Behavior,arXiv,2023
+Large Language Models as Zero-Shot Human Models for Human-Robot Interaction,arXiv,2023
+Translating Natural Language to Planning Goals with Large-Language Models,arXiv,2023
+Generalized Planning in PDDL Domains with Pretrained Large Language Models,NeurlPS,2022
+Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?,arXiv,2023
+LLM+P: Empowering Large Language Models with Optimal Planning Proficiency,arXiv,2023
+"Foundation Models for Decision Making: Problems, Methods, and Opportunities",arXiv,2023
+ChatGPT for Robotics: Design Principles and Model Abilities,Blog,2023
+Text2Motion: From Natural Language Instructions to Feasible Plans,arXiV,2023
+ChatGPT Empowered Long-Step Robot Control in Various Environments: A Case Application,arXiv,2023
+"Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action",arXiv,2022
+Inner Monologue: Embodied Reasoning through Planning with Language Models,arXiv,2022
+Housekeep: Tidying Virtual Households using Commonsense Reasoning,arXiv,2022
+Pre-Trained Language Models for Interactive Decision-Making,arXiv,2022
+FILM: Following Instructions in Language with Modular Methods,ICLR,2022
+Don’t Copy the Teacher: Data and Model Challenges in Embodied Dialogue,EMNLP,2022
+ReAct: Synergizing Reasoning and Acting in Language Models,ICLR,2023
+LLM-BRAIn: AI-driven Fast Generation of Robot Behaviour Tree based on Large Language Model,arXiv,2023
+Open-World Object Manipulation using Pre-trained Vision-Language Models,arXiv,2022
+Keep CALM and Explore: Language Models for Action Generation in Text-based Games,arXiv,2020
+Planning with Large Language Models via Corrective Re-prompting,arXiv,2022
+Visually-Grounded Planning without Vision: Language Models Infer Detailed Plans from High-level Instructions,arXiV,2020
+LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models,arXiv,2023
+Grounded Decoding: Guiding Text Generation with Grounded Models for Robot Control,arXiv,2023
+Robot Task Planning and Situation Handling in Open Worlds,arXiv,2022
+Reward Design with Language Models,ICML,2023
+Large Language Models as Commonsense Knowledge for Large-Scale Task Planning,arXiv,2023
+Collaborating with language models for embodied reasoning,NeurIPS,2022
+LLM as A Robotic Brain: Unifying Egocentric Memory and Control,arXiv,2023
+Building Cooperative Embodied Agents Modularly with Large Language Models,arXiv,2023
+Language to Rewards for Robotic Skill Synthesis,arXiv,2023
+Text2Reward: Automated Dense Reward Function Generation for Reinforcement Learning,arXiv,2023
+VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models,arXiv,2023
+Chain-of-Thought Predictive Control,arXiv,2023
+Robotic Skill Acquisition via Instruction Augmentation with Vision-Language Models,arXiv,2022
+CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory,arXiv,2022
+VIMA: General Robot Manipulation with Multimodal Prompts,arXiv,2022
+A Multi-Task Transformer for Robotic Manipulation,CoRL,2022
+LATTE: LAnguage Trajectory TransformEr,arXiv,2022
+Robots Enact Malignant Stereotypes,FAccT,2022
+Leveraging Language for Accelerated Learning of Tool Manipulation,CoRL,2022
+Can Foundation Models Perform Zero-Shot Task Specification For Robot Manipulation?,L4DC,2022
+Semantic Exploration from Language Abstractions and Pretrained Representations,arXiv,2022
+Simple but Effective: CLIP Embeddings for Embodied AI,CVPR,2021
+CLIPort: What and Where Pathways for Robotic Manipulation,CoRL,2021
+Multimodal Procedural Planning via Dual Text-Image Prompting,arXiV,2023
+Pretrained Language Models as Visual Planners for Human Assistance,arXiV,2023
+R3M: A Universal Visual Representation for Robot Manipulation,arXiv,2022
+LIV: Language-Image Representations and Rewards for Robotic Control,arXiv,2023
+"No, to the Right: Online Language Corrections for Robotic Manipulation via Shared Autonomy",arXiv,2023
+Task and Motion Planning with Large Language Models for Object Rearrangement,arXiv,2023
+Towards a Unified Agent with Foundation Models,ICLR,2023
+Language Instructed Reinforcement Learning for Human-AI Coordination,arXiv,2023
+"Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents",arXiv,2023
+Plan4MC: Skill Reinforcement Learning and Planning for Open-World Minecraft Tasks,arXiv,2023
+VOYAGER: An Open-Ended Embodied Agent with Large Language Models,arXiv,2023
+Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition,arXiv,2023
+A Generalist Agent,TMLR,2022
+RoboCat: A Self-Improving Foundation Agent for Robotic Manipulation,arxiv,2023
+Physically Grounded Vision-Language Models for Robotic Manipulation,arxiv,2023
+METAMORPH: LEARNING UNIVERSAL CONTROLLERS WITH TRANSFORMERS,arxiv,2022
+ADAPT: Vision-Language Navigation with Modality-Aligned Action Prompts,CVPR,2022
+The Unsurprising Effectiveness of Pre-Trained Vision Models for Control,ICML,2022
+CLIP on Wheels: Zero-Shot Object Navigation as Object Localization and Exploration,arXiv,2022
+A Recurrent Vision-and-Language BERT for Navigation,CVPR,2021
+Improving Vision-and-Language Navigation with Image-Text Pairs from the Web,ECCV,2020
+Interactive Language: Talking to Robots in Real Time,arXiv,2022
+MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge,arXiv,2022
+Habitat 2.0: Training Home Assistants to Rearrange their Habitat,NeurIPS,2021
+"BEHAVIOR: Benchmark for Everyday Household Activities in Virtual, Interactive, and Ecological Environments",CoRL,2021
+iGibson 1.0: a Simulation Environment for Interactive Tasks in Large Realistic Scenes,IROS,2021
+ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks,CVPR,2020
+BabyAI: A Platform to Study the Sample Efficiency of Grounded Language Learning,ICLR,2019
